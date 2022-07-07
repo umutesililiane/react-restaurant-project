@@ -6,9 +6,7 @@ function About(props) {
 
      const RenderLeader = props.leaders.map((leader) => {
       return (
-        //      <p>Leader {leader.name}</p>
-
-        //  );
+       
     
             <Media>
                  <div className="row">
