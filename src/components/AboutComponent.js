@@ -15,10 +15,10 @@ function About(props) {
              <Media left middle >
                 <Media object src={leader.image} alt={leader.name} />
               </Media>
-              </div>
+             </div>
               <div className="col-8">
               <Media body  className="ml-5">
-                <Media heading className="ml-5">
+                <Media heading >
                   {leader.name}
                 </Media>
         
